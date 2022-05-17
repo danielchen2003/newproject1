@@ -34,9 +34,10 @@
 
     ul{
         font-size:  1.875em;
-        background-color: #bfa;
-        Width: 300px;
-        height: 200px;
+        background-color: rgb(209, 181, 24);
+        width: 300px;
+        height: 100%;
+        padding: 1em;
     }
 
     a{
@@ -57,10 +58,10 @@
         color:blueviolet;
     }
 
-    img{
+    /* img{
         width: 200px;
         height: 250px;
-    }
+    } */
 
     hr {
         height: 4px;
@@ -97,7 +98,7 @@
       }
 
      input[type= button]{
-        color: green
+        color: green;
         background-color: #BEC23F;
         padding: 5px;
       }
@@ -145,16 +146,22 @@
         margin-top: 150px;
         
       }
-      #div3{
+      /* #div3{
         background-color: rgb(202, 122, 44);
       }
       #div4{
+        height: 100%;
         background-color: rgb(202, 122, 44);
-      }
-      #div2,#div3,#div4{
+      } */
+      #div2{
         border: dashed;
       }
 
+    #fatherofdiv34{
+      display: flex;
+      flex-direction: row;
+      background-color: #BEC23F;
+    }
       
    
 
