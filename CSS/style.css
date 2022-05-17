@@ -1,0 +1,160 @@
+
+
+    body{ 
+        font-family: sans-serif;
+        background-color: #B47157 ;
+        border:soild;
+        margin:5px;
+        padding: 10px;
+        
+    }
+
+    h1{
+        font-size: 55;
+        text-decoration: underline;
+        color: #eb7A77;
+        text-align: center;
+        
+    }
+    h1.hover{
+      color:#BEC23F
+    }
+    h2{
+        font-size: 55;
+        
+        color: yellow;
+        text-align: center;
+        
+    }
+
+    p{
+        font-size: 30px;
+        color:brown
+    }
+
+    ul{
+        font-size:  1.875em;
+        background-color: #bfa;
+        Width: 300px;
+        height: 200px;
+    }
+
+    a{
+        color: purple;
+        font-size: 25px;
+    }
+
+    a:visited{
+        color:#BEC23F;
+
+    }
+
+    a:hover{
+        color:blueviolet;
+    }
+
+    a.active{
+        color:blueviolet;
+    }
+
+    img{
+        width: 200px;
+        height: 250px;
+    }
+
+    hr {
+        height: 4px;
+        background-color: brown;
+        border-color: brown;
+      }
+
+      span{
+        color:#bfa;
+        font-size: 25pt;
+        font-family:arial;
+
+      }
+      
+      #exp{
+        font-family: sans-serif;
+        font-size: 30px;
+      }
+
+      .interest{
+          font: sans-serif;
+          font-size: 25px;
+          color:darkblue;
+
+      }
+
+      #form1 {
+        padding: 15px;
+        background-color:  wheat;
+        font-style: italic;
+        border-style: solid;
+        font-weight: 900px;
+        width: 15%;
+      }
+
+     input[type= button]{
+        color: green
+        background-color: #BEC23F;
+        padding: 5px;
+      }
+
+
+      
+
+      .tableframe{
+        width: 100px;
+      }
+
+      .navbar{
+        color:blue;
+        position: sticky;
+        
+      }
+          
+
+      #story{
+        width: 80%;
+        background-color: grey;
+        margin-left: 20px;
+        margin-right: auto;
+        padding: 20px;
+        max-width: 500px;
+      }
+      #storyhead{
+        
+        margin-left: 300px;
+        margin-right: auto;
+        padding: 20px;
+       
+      }
+      #div1{
+       
+          background-color: rgb(86, 63, 46);
+          border: solid;
+          width: 100%;
+          position: sticky;
+          
+      }
+      
+      #div2{
+        background-color: rgb(98, 97, 168);
+        margin-top: 150px;
+        
+      }
+      #div3{
+        background-color: rgb(202, 122, 44);
+      }
+      #div4{
+        background-color: rgb(202, 122, 44);
+      }
+      #div2,#div3,#div4{
+        border: dashed;
+      }
+
+      
+   
+
